@@ -9,3 +9,5 @@ release/
 .vs/
 *.ps1
 *.af
+/promo/*
+*.cm
